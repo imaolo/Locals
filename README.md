@@ -1,4 +1,6 @@
 # Locals
+An app for posting, rsvp'ing, and managing events (a class project).
+Uses the MERN stack.
 # npm install
 # cd client
 # npm install
